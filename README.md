@@ -2,7 +2,7 @@
 
 Total time allowed: **1-2 hours**
 
-This assignment tis designed to assess the skills of a QA automation engineer applicant. Time box for the assignment is 2 hours.
+This assignment tis designed to assess the skills of a QA automation engineer applicant.
 
 ## Procedure
 - Read this Readme carefully and **until the end**
