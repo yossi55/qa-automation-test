@@ -15,19 +15,19 @@ This assignment tis designed to assess the skills of a QA automation engineer ap
 ## Task
 ### Requirements
 - you need to have a Foxstone account
-  - Go to https://sso.foxstone.ch/en/signup
+  - Go to https://sso.foxstone.co/en/signup
   - register an account
   - Go through onboarding
   - Validate Email and phone
   - Logout
 
 ### Test Scenario
-  1.	Go to https://sso.foxstone.ch/en/signin
+  1.	Go to https://sso.foxstone.co/en/signin
   2.  click Forgot your password
   3.  Enter your email and click reset password button
   4.  Read the email that you received, click the Reset Password link in the email
   5.  Set a new password
-  6.  Go back to https://sso.foxstone.ch/en/signin
+  6.  Go back to https://sso.foxstone.co/en/signin
   7.  Login successfully with the new password
   8.  Make sure you are inside the app at the end
 
